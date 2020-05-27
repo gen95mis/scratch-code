@@ -1,0 +1,30 @@
+C:\Users\Александр\Documents\MyProjects\ScratchCode\ScratchCode\bin\Debug\ScratchCode.exe.config
+C:\Users\Александр\Documents\MyProjects\ScratchCode\ScratchCode\bin\Debug\ScratchCode.exe
+C:\Users\Александр\Documents\MyProjects\ScratchCode\ScratchCode\bin\Debug\ScratchCode.pdb
+C:\Users\Александр\Documents\MyProjects\ScratchCode\ScratchCode\obj\Debug\ScratchCode.csprojAssemblyReference.cache
+C:\Users\Александр\Documents\MyProjects\ScratchCode\ScratchCode\obj\Debug\App.g.cs
+C:\Users\Александр\Documents\MyProjects\ScratchCode\ScratchCode\obj\Debug\ScratchCode_MarkupCompile.cache
+C:\Users\Александр\Documents\MyProjects\ScratchCode\ScratchCode\obj\Debug\ScratchCode_MarkupCompile.lref
+C:\Users\Александр\Documents\MyProjects\ScratchCode\ScratchCode\obj\Debug\ScratchCode.g.resources
+C:\Users\Александр\Documents\MyProjects\ScratchCode\ScratchCode\obj\Debug\ScratchCode.Properties.Resources.resources
+C:\Users\Александр\Documents\MyProjects\ScratchCode\ScratchCode\obj\Debug\ScratchCode.csproj.GenerateResource.cache
+C:\Users\Александр\Documents\MyProjects\ScratchCode\ScratchCode\obj\Debug\ScratchCode.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\MyProjects\ScratchCode\ScratchCode\obj\Debug\ScratchCode.exe
+C:\Users\Александр\Documents\MyProjects\ScratchCode\ScratchCode\obj\Debug\ScratchCode.pdb
+C:\Users\Александр\Documents\MyProjects\ScratchCode\ScratchCode\obj\Debug\MainWindow.g.cs
+C:\Users\Александр\Documents\MyProjects\ScratchCode\ScratchCode\obj\Debug\MainWindow.baml
+C:\Users\Александр\Documents\MyProjects\Information Security\ScratchCode\ScratchCode\bin\Debug\ScratchCode.exe.config
+C:\Users\Александр\Documents\MyProjects\Information Security\ScratchCode\ScratchCode\bin\Debug\ScratchCode.exe
+C:\Users\Александр\Documents\MyProjects\Information Security\ScratchCode\ScratchCode\bin\Debug\ScratchCode.pdb
+C:\Users\Александр\Documents\MyProjects\Information Security\ScratchCode\ScratchCode\obj\Debug\ScratchCode.csprojAssemblyReference.cache
+C:\Users\Александр\Documents\MyProjects\Information Security\ScratchCode\ScratchCode\obj\Debug\MainWindow.g.cs
+C:\Users\Александр\Documents\MyProjects\Information Security\ScratchCode\ScratchCode\obj\Debug\App.g.cs
+C:\Users\Александр\Documents\MyProjects\Information Security\ScratchCode\ScratchCode\obj\Debug\ScratchCode_MarkupCompile.cache
+C:\Users\Александр\Documents\MyProjects\Information Security\ScratchCode\ScratchCode\obj\Debug\ScratchCode_MarkupCompile.lref
+C:\Users\Александр\Documents\MyProjects\Information Security\ScratchCode\ScratchCode\obj\Debug\MainWindow.baml
+C:\Users\Александр\Documents\MyProjects\Information Security\ScratchCode\ScratchCode\obj\Debug\ScratchCode.g.resources
+C:\Users\Александр\Documents\MyProjects\Information Security\ScratchCode\ScratchCode\obj\Debug\ScratchCode.Properties.Resources.resources
+C:\Users\Александр\Documents\MyProjects\Information Security\ScratchCode\ScratchCode\obj\Debug\ScratchCode.csproj.GenerateResource.cache
+C:\Users\Александр\Documents\MyProjects\Information Security\ScratchCode\ScratchCode\obj\Debug\ScratchCode.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\MyProjects\Information Security\ScratchCode\ScratchCode\obj\Debug\ScratchCode.exe
+C:\Users\Александр\Documents\MyProjects\Information Security\ScratchCode\ScratchCode\obj\Debug\ScratchCode.pdb
